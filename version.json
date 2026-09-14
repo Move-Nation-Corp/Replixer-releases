@@ -1,5 +1,5 @@
 {
-  "version": "1.7.5",
+  "version": "1.7.6",
   "files": [
     {
       "path": "Accessibility.dll",
@@ -328,18 +328,18 @@
     },
     {
       "path": "Replixer.deps.json",
-      "sha256": "500e877cd5e6d97b7b6f8b4390f42aa12ceeff9387b607c558336736a4e47c00",
-      "url": "https://github.com/Move-Nation-Corp/Replixer-releases/releases/download/v1.7.5/Replixer.deps.json"
+      "sha256": "205cd8ca1e7876dda249839bbcbaf7196b609d703993e87c1b8120504824b122",
+      "url": "https://github.com/Move-Nation-Corp/Replixer-releases/releases/download/v1.7.6/Replixer.deps.json"
     },
     {
       "path": "Replixer.dll",
-      "sha256": "d799ce084a4728a9cca6f854bdd1e30d25bcf4e1372ecdb36ce90e259d1a7523",
-      "url": "https://github.com/Move-Nation-Corp/Replixer-releases/releases/download/v1.7.5/Replixer.dll"
+      "sha256": "adf5b57b7bbfdc40123c75a5fb3b17377871147c6a8dd728a81babf98d3a7bc3",
+      "url": "https://github.com/Move-Nation-Corp/Replixer-releases/releases/download/v1.7.6/Replixer.dll"
     },
     {
       "path": "Replixer.exe",
-      "sha256": "39f10e4e2f19c61d5a3e02a9d5174d90b971f8157bf5bf5802a39afeef0a81df",
-      "url": "https://github.com/Move-Nation-Corp/Replixer-releases/releases/download/v1.7.5/Replixer.exe"
+      "sha256": "727c08f19c3dc6e27dda505e3928714cccea9bd4ec0ad9cf6e358f73703476e7",
+      "url": "https://github.com/Move-Nation-Corp/Replixer-releases/releases/download/v1.7.6/Replixer.exe"
     },
     {
       "path": "Replixer.runtimeconfig.json",
